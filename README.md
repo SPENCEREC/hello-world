@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+Hi!
+
+I like to learn cool things and apply what I have learned to make cool things.
